@@ -1,13 +1,26 @@
+p{font-family: 'Times New Roman';}
 
+title{
+  font-family: Impact, Haettenschweiler,;
+font-size: xxx-large;
+}
 
-html{background-color: aliceblue;}
+h3{font-family: cursive;}
 
-p {font-family:'Times New Roman', Times, serif;}
+:any-link{color: darkblue;}
 
-title{font-size: larger;}
+body{background-color: lightblue;}
 
-h1{font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
-
-head{background-color: aqua;}
-
-style:home{background-color: aqua;}
+.button-link {
+    background-color: #ffffff;
+    color: #ff0000;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    cursor: pointer;
+}
+.button-link a {
+    text-decoration: none;
+    color: inherit;
+}
