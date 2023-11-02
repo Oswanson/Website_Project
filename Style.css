@@ -1,4 +1,6 @@
-p{font-family: 'Times New Roman';}
+body{background-color: azure;}
+
+p{font-family: 'Courier New', Courier, monospace;}
 
 title{
   font-family: Impact, Haettenschweiler,;
@@ -9,7 +11,7 @@ h3{font-family: cursive;}
 
 :any-link{color: darkblue;}
 
-body{background-color: lightblue;}
+body{background-color: azure;}
 
 .button-link {
     background-color: #ffffff;
@@ -26,8 +28,8 @@ body{background-color: lightblue;}
 }
 
 .myDiv {
-    border: 2px outset rgb(213, 148, 231);
-    background-color: lightblue;    
+    border: 6 inset rgb(213, 148, 231);
+    background-color: blueviolet;    
     text-align: justify;
     
   }
