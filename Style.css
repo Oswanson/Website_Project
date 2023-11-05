@@ -13,7 +13,7 @@ h3{font-family: cursive;}
 
 .button-link {
     background-color: #ffffff;
-    color: blueviolet;
+    color: rgb(31, 212, 28);
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -27,7 +27,7 @@ h3{font-family: cursive;}
 
 .myDiv {
     border: 6 inset rgb(213, 148, 231);
-    background-color: blueviolet;    
+    background-color: rgb(180, 223, 153);    
     text-align: justify;
-    
+    width: auto;
   }
